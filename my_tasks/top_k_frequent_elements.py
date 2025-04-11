@@ -20,9 +20,6 @@ class Solution:
                 if len(final_res) == k:
                     return final_res
 
-        # print(f"counts: {counts}")
-        # print()
-        # print(f"res: {res}")
 
 sol = Solution()
 
